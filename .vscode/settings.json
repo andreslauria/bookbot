@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 16,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "terminal.integrated.fontLigatures.enabled": true,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
+    "terminal.integrated.fontSize": 15
+}
